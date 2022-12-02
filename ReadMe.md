@@ -1,6 +1,7 @@
 # Numerical Optimization in Robotics - Homework5 
 ### by tkalpha, 2022.08.31 V0.2.1
 
+Course Link ： [深蓝学院_机器人中的数值优化](https://www.shenlanxueyuan.com/course/573)
 
 ## 作业目标以及完成思路
 1. 点离凸多边形的最短距离求解
